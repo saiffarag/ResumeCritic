@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pdfminer.six
+python-docx
+spacy
+textstat
+sentence-transformers
+regex
+numpy
